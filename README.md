@@ -1,5 +1,6 @@
 <h1> 😎 Thanakorn Chanchergpanich (Soon)</h1> 
 
+### Sirisoft
 ### 🟠 Computer Engineering KMITL 58 
 ### 🌹  SKN 37
 ![Soon's GitHub stats](https://github-readme-stats.vercel.app/api?username=soon-404&show_icons=true&theme=algolia)
@@ -8,6 +9,6 @@
 
 ### Facebook : https://www.facebook.com/profile.php?id=100014669342473
 
-### Ig : \_soon404
+### Ig : \_s_ooo_n
 
 ### Line ID : soonskn
