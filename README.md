@@ -9,6 +9,6 @@
 
 ### Facebook : https://www.facebook.com/profile.php?id=100014669342473
 
-### Ig : \_s_ooo_n
+### Ig : s_ooo_n
 
 ### Line ID : soonskn
